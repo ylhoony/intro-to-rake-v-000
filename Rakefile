@@ -4,5 +4,5 @@ task :hello do
 end
 
 task :greeting do 
-  :hello
+  rake hello
 end
