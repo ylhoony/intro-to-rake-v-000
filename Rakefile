@@ -10,9 +10,9 @@ namespace :greeting do
   end
 end
 
-namespace :db do
-
-  task :migrate do
-    
-  end
-end
+# namespace :db do
+# 
+#   task :migrate do
+#     
+#   end
+# end
